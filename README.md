@@ -65,7 +65,7 @@ No registration required. Cell 2 downloads automatically.
 ---
 
 ## Citation
+**arXiv**: [link — will be added after submission]
 
-If you use this work please cite:
-[add arXiv citation after submission]
+**GitHub**: https://github.com/aajasso/irdrop-gnn-n14
 
